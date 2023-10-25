@@ -10,10 +10,10 @@ app.get('/listsongs', function (req, res) {
 })
 var song = {
     "song6" : {
-       "song" : "mohit",
-       "artist" : "password4",
-       "genre" : "teacher",
-       "link": 4
+       "song" : "Para sa Streets",
+       "artist" : "HevAbi",
+       "genre" : "RAP",
+       "link": "https://www.youtube.com/watch?v=75UGXuyoFII&ab_channel=HEVABIDOWNTOWN"
     }
  }
  
