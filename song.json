@@ -1,0 +1,32 @@
+{
+    "song1" : {
+       "song" : "Water",
+       "artist" : "Tyga",
+       "genre" : "R&B",
+       "link": "https://www.youtube.com/watch?v=PBAMcKXcBKE&ab_channel=TylaVEVO"
+    },
+    "song2" : {
+        "song" : "ToosieSlide",
+        "artist" : "Drake",
+        "genre" : "RAP",
+        "link": "https://www.youtube.com/watch?v=dGYxT1QReQs&ab_channel=DrakeVEVO"
+     },
+     "song3" : {
+        "song" : "Lowkey",
+        "artist" : "NIKI",
+        "genre" : "R&B",
+        "link": "https://www.youtube.com/watch?v=etZ6D39fVkg&ab_channel=NIKI-Topic"
+     },
+     "song4" : {
+        "song" : "I Feel it Coming",
+        "artist" : "The Weeknd",
+        "genre" : "80's Pop",
+        "link": "https://www.youtube.com/watch?v=qFLhGq0060w&ab_channel=TheWeekndVEVO"
+     },
+     "song5" : {
+        "song" : "N95",
+        "artist" : "Kendrick Lamar",
+        "genre" : "RAP",
+        "link": "https://www.youtube.com/watch?v=zI383uEwA6Q&ab_channel=KendrickLamarVEVO"
+     }
+ }
