@@ -17,7 +17,7 @@ var song = {
     }
  }
  
- app.post('/addsongs', function (req, res) {
+ app.post('/addsong', function (req, res) {
     // First read existing users.
     fs.readFile( __dirname + "/" + "song.json", 'utf8', function (err, data) {
        data = JSON.parse( data );
